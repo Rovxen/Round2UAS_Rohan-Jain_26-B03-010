@@ -1,5 +1,3 @@
-# Round2UAS_Rohan-Jain_26-B03-010
-
 # UAS-DTU Round 2 — Casualty Analysis using a Rover Guided by a UAV
 
 Given an aerial segmentation map of a triage site, this project finds the
@@ -355,3 +353,6 @@ RANKING BY TIME (fastest first)
 ==========================================================
 
 processed 5 of 5 images
+
+
+
